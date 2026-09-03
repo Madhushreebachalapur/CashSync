@@ -1,0 +1,8 @@
+txn_id,amount,date,side,reason
+TXN1009,1081.05,2026-08-04,ledger,No corresponding bank transaction found
+TXN1032,10956.45,2026-08-20,bank,Possible duplicate bank entry (transaction ID already matched elsewhere)
+TXN1001,987.71,2026-08-04,bank,Possible duplicate bank entry (transaction ID already matched elsewhere)
+TXN1007,2195.31,2026-08-06,bank,Possible duplicate bank entry (transaction ID already matched elsewhere)
+BANKONLY0,4680.94,2026-09-02,bank,No corresponding ledger transaction found
+BANKONLY1,4454.25,2026-08-23,bank,No corresponding ledger transaction found
+BANKONLY2,4242.49,2026-08-20,bank,No corresponding ledger transaction found
